@@ -24,7 +24,7 @@ $ex ℳ︁oney £urda,9,silly lil bxtch,Roc Marciano,Nathaniel Ozuski
 304tmd,6,she a 10, pt 2,Nathaniel Ozuski,Turbo,James Blake
 304tmd,7,bike shed,Nathaniel Ozuski,Playboi Carti,Cannon ThaBeast
 Armoured Titan,1,Kunimitsu,Nathaniel Ozuski,Domo Genesis
-Armoured Titan,2,leadbelly remix,Nathaniel Ozuski
+Armoured Titan,2,leadbelly remix,Nathaniel Ozuski, MIKE, Earl Sweatshirt
 Armoured Titan,3,Talk To Me,Drakeo the Ruler,Drake
 bounce out with the 45,1,bounce out with the 45,Nathaniel Ozuski,Glokk40Spaz,2wo2imes
 bounce out with the 45,2,mordecai and rigby,Nathaniel Ozuski,LAZERDIM700,A$AP Mob
@@ -84,8 +84,8 @@ Kony Obama Davidson,2,never stop remix,Nathaniel Ozuski,Ian
 Kony Obama Davidson,2,絶対？絶望？少女？ - Ultra? Despair? Girls?,Masafumi Takada
 Kony Obama Davidson,3,party so lit,Nathaniel Ozuski,Ian
 Kony Obama Davidson,4,Spiderman vs Electro,Nathaniel Ozuski,Ian
-Kony Obama Davidson,5,trillionaire,Nathaniel Ozuski,Ian
-Kony Obama Davidson,6,figure it out remix,Nathaniel Ozuski,Ian
+Kony Obama Davidson,5,trillionaire,Nathaniel Ozuski,Ian, Skepta
+Kony Obama Davidson,6,figure it out remix,Nathaniel Ozuski,Ian, Nine Vicious
 MUSIC MAN,1,LIZARD PEOPLE / CLONES,Nathaniel Ozuski
 MUSIC MAN,2,IM FROM 3000BC,Nathaniel Ozuski
 MUSIC MAN,3,HSC Slowed And Reverb,Nathaniel Ozuski
@@ -109,8 +109,8 @@ science vs. folklore,4,MAN'S LAW,Nathaniel Ozuski,Bandmanrill
 science vs. folklore,5,Science vs. Folklore,Nathaniel Ozuski,XXXtentacion,J. Cole
 science vs. folklore,6,TERROR WARNING,Nathaniel Ozuski,Devstacks,Rich Amiri
 science vs. folklore,7,WELCOME TO THE BLUE PARTY,Nathaniel Ozuski,Pop Smoke
-SISTERHOOD REMIX EP,1,heavy box,Nathaniel Ozuski,Lucy Bedroque
-SISTERHOOD REMIX EP,2,amish,Nathaniel Ozuski,Lucy Bedroque
+SISTERHOOD REMIX EP,1,heavy box,Nathaniel Ozuski,Lucy Bedroque, Benny the Butcher
+SISTERHOOD REMIX EP,2,amish,Nathaniel Ozuski,Lucy Bedroque, Skepta
 SISTERHOOD REMIX EP,3,16,Nathaniel Ozuski,Lucy Bedroque
 SISTERHOOD REMIX EP,4,claymarr,Nathaniel Ozuski,Lucy Bedroque
 SISTERHOOD REMIX EP,5,ONLINE VS IRL,Nathaniel Ozuski,Lucy Bedroque
