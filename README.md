@@ -19,3 +19,7 @@ All music meta and legal data:
 for place try:
 north korea
 vatican city
+
+### requirements.txt
+
+* python requirements for generate.py
